@@ -1,5 +1,5 @@
 {
-  "name": "@mime4x/templator",
+  "name": "mime-templates",
   "version": "1.0.0",
   "description": "A simple package to generate template",
   "main": "index.js",
