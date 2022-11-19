@@ -1,1 +1,1 @@
-# Mime-Templates
+# MimeTemplates
