@@ -1,6 +1,6 @@
 {
   "name": "mimetemplates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package to generate template",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,10 @@
   "author": "Mime",
   "license": "MIT",
   "bin": {
-    "templator": "./index.js",
-    "template": "./index.js"
+    "template": "./index.js",
+    "templates": "./index.js",
+	"mimetemplates": "./index.js",
+	"mimetemplate": "./index.js"
   },
   "dependencies": {
     "axios": "^1.1.3",
