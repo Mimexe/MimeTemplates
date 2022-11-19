@@ -1,0 +1,16 @@
+{
+  "name": "templator",
+  "version": "1.0.0",
+  "description": "A simple package to generate template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Mime",
+  "license": "MIT",
+  "bin": {
+    "templator": "node index.js",
+    "template": "node index.js"
+  }
+}
