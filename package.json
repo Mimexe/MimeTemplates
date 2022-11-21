@@ -12,8 +12,8 @@
   "bin": {
     "template": "./index.js",
     "templates": "./index.js",
-	"mimetemplates": "./index.js",
-	"mimetemplate": "./index.js"
+    "mimetemplates": "./index.js",
+    "mimetemplate": "./index.js"
   },
   "dependencies": {
     "axios": "^1.1.3",
