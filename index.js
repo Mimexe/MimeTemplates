@@ -106,6 +106,8 @@ async function installTemplate(template) {
   await downloadFile(template.url, "template.zip");
   load.text = "Unzipping file...";
   await unzipFile("template.zip");
+  load.text = "Deleting template zip...";
+  unlinkSync("template.zip");
   try {
     switch (template) {
       case Template.BASIC:
@@ -132,9 +134,6 @@ async function installTemplate(template) {
         // install
         load.text = "Installing modules...";
         await runCommand("npm install");
-        // delete
-        load.text = "Deleting template zip...";
-        unlinkSync("template.zip");
         break;
     }
     load.succeed("Template installed".green);
