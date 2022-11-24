@@ -4,8 +4,7 @@
   "description": "A simple package to generate template",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "npm": "npm install && git add . && git commit -am \"Automatic due to publish\" && git push && npm publish"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Mime",
