@@ -1,9 +1,9 @@
 # MimeTemplates
 
 [![npm](https://img.shields.io/npm/v/mimetemplates)](https://www.npmjs.com/package/mimetemplates)
-![Build](https://img.shields.io/github/workflow/status/Mimexe/mimetemplates/Build)
+![Build](https://img.shields.io/github/workflow/status/Mimexe/MimeTemplates/Build)
 ![npm](https://img.shields.io/npm/dw/mimetemplates)
-![Logo](https://i.imgur.com/TLwOi1t.png)
+![Logo](https://i.imgur.com/TLwOi1t.png)  
 A simple package to create templates easily!
 
 ## Installation
