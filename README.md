@@ -29,4 +29,4 @@ Warning ! It will override the files with the same name ! (there is a confirmati
 
 ## License
 
-This project use the [MIT](https://choosealicense.com/licenses/mit) [License](LICENSE)
+This project use the [MIT License](https://choosealicense.com/licenses/mit)
