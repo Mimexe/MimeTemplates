@@ -1,6 +1,6 @@
 {
   "name": "mimetemplates",
-  "version": "1.2.5",
+  "version": "1.2.7",
   "description": "A simple package to generate template",
   "main": "index.js",
   "scripts": {
