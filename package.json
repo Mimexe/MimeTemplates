@@ -1,10 +1,11 @@
 {
   "name": "mimetemplates",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "description": "A simple package to generate template",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "npm": "npm install && git add . && git commit -am \"Automatic due to publish\" && git push && npm publish"
   },
   "keywords": [],
   "author": "Mime",
